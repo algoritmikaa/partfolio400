@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    color: aquamarine;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+}
